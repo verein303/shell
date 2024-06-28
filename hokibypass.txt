@@ -1,5 +1,3 @@
-%PDF-1.3
-GIF89;
 <?pHp
    function get($url) {
     $ch = curl_init();
